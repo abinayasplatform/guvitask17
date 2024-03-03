@@ -1,0 +1,79 @@
+body{
+    background-color: #23414C;
+}
+
+#title{
+    color:chocolate;
+    font-weight: 1000;
+    font-family:cursive;
+    border:7px groove chocolate;
+    border-radius: 30px;
+    padding:20px;
+    margin:20px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#title2{
+    color:gold;
+    font-family:cursive;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border:5px groove goldenrod;
+    padding:10px;
+    margin:20px;
+    border-radius: 30px;
+
+}
+
+#title3{
+    color:burlywood;
+    font-family:cursive;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border:5px groove burlywood ;
+    padding:10px;
+    margin:20px;
+    border-radius: 30px;
+}
+
+#card{
+    background-color: #23414C;
+    padding: 20px;;
+}
+
+#cardbody{
+   
+    background: linear-gradient(to right,#D9C7A2,#5E6961);
+    
+}
+
+
+#name{
+    font-family:cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color:beige;
+    padding-bottom:6px; 
+    
+}
+
+#flag{
+    border:2px solid black;
+    height:250px;
+}
+
+#capital,#region,#lating,#countrycode,#button{
+    padding:2px;
+    font-family:cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
